@@ -1,4 +1,4 @@
-public class Lab18 {
+public class Lab18_1 {
     public static void main(String[] args) {
         Thread t1 = new Thread(new Exec1());
         Thread t2 = new Thread(new Exec2());
